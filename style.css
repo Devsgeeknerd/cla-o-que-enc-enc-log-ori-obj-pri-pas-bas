@@ -1,0 +1,26 @@
+/* PRIMEIRA DIV */
+
+.header {
+	background-color: #0000ff;
+}
+
+.header p,
+.header span {
+	color: #ffffff;
+}
+
+.header p {
+	font-size: 21px;
+}
+
+/* SEGUNDA DIV */
+
+.header+div {
+	background-color: #ff0000;
+}
+
+/* TERCEIRA DIV */
+
+div strong {
+	color: #00ff00;
+}
