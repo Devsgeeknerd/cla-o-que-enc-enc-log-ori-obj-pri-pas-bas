@@ -13,7 +13,7 @@
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
 <!--  * [Recusos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
-<!-- - [Agradecimentos](#agradecimentos) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
 - [Informações](#informações)
 
 <!-- OVERVIEW -->
